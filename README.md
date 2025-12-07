@@ -7,7 +7,6 @@
 ![UI](https://img.shields.io/badge/UI-CustomTkinter-orange)
 
 ## 📸 Screenshots
-*(Tambahkan screenshot aplikasi di sini agar repo terlihat menarik)*
 > ![Halaman Login](login.PNG)
 > ![Gameplay](home.PNG)
 
