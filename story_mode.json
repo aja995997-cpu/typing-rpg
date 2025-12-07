@@ -1,0 +1,127 @@
+{
+    "selected_story": "motivation_life",
+    "stories": {
+        "motivation_life": {
+            "title": "Perjalanan Hidup (Motivasi)",
+            "chapters": [
+                {
+                    "title": "Langkah Awal",
+                    "text": "Setiap perjalanan besar dimulai dengan satu langkah kecil. Jangan takut untuk memulai."
+                },
+                {
+                    "title": "Konsistensi",
+                    "text": "Konsistensi adalah kunci yang membedakan antara pemimpi dan pemenang, menjadikannya kebiasaan."
+                },
+                {
+                    "title": "Kegagalan adalah Guru",
+                    "text": "Lihatlah kegagalan bukan sebagai akhir, tetapi sebagai pelajaran berharga yang mengarahkan Anda menuju kesuksesan yang lebih besar."
+                },
+                {
+                    "title": "Kekuatan Pikiran Positif",
+                    "text": "Apa yang Anda yakini akan terjadi. Ubah dialog batin Anda dan fokus pada peluang, bukan hambatan."
+                }
+            ]
+        },
+        "children_story": {
+            "title": "Petualangan Si Kelinci Pemberani (Cerita Anak)",
+            "chapters": [
+                {
+                    "title": "Bertemu Kura-Kura",
+                    "text": "Di padang rumput yang hijau, seekor kelinci bernama Kiki bertemu dengan Kura-Kura yang bijak. Kiki belajar bahwa kecepatan bukanlah segalanya."
+                },
+                {
+                    "title": "Mencari Bunga Langka",
+                    "text": "Kiki dan Kura-Kura memulai perjalanan yang seru untuk menemukan Bunga Pelangi yang hanya mekar sekali setahun. Mereka harus bekerja sama melewati sungai kecil dan bukit."
+                },
+                {
+                    "title": "Ujian Persahabatan",
+                    "text": "Saat badai datang, Kiki harus melindungi Kura-Kura, membuktikan bahwa persahabatan sejati lebih kuat daripada rasa takut apapun."
+                },
+                {
+                    "title": "Kembalinya Kiki",
+                    "text": "Kiki kembali ke rumah sebagai kelinci yang lebih bijaksana, mengajari teman-temannya pentingnya kesabaran dan kerja sama."
+                }
+            ]
+        },
+        "fiction_story": {
+            "title": "Misteri Kota Senja (Cerita Fiksi)",
+            "chapters": [
+                {
+                    "title": "Hilangnya Jam Kuno",
+                    "text": "Di Kota Senja yang selalu diselimuti kabut tipis, jam kuno di menara kota tiba-tiba menghilang. Seorang detektif muda bernama Elara harus memecahkan misteri ini sebelum matahari terbit."
+                },
+                {
+                    "title": "Petunjuk dari Peta Bintang",
+                    "text": "Satu-satunya petunjuk adalah peta tua yang hanya bisa dibaca di bawah cahaya bintang tertentu. Elara menyadari bahwa waktu dan astronomi adalah kunci kasus ini."
+                },
+                {
+                    "title": "Penemuan di Perpustakaan Tersembunyi",
+                    "text": "Penyelidikan membawa Elara ke perpustakaan tua di bawah tanah, di mana dia menemukan buku harian yang mengungkapkan rahasia para pembuat jam kuno."
+                },
+                {
+                    "title": "Pengembalian Waktu",
+                    "text": "Elara berhasil menemukan pencuri—bukan karena ingin mencuri, tetapi untuk menghentikan waktu. Elara berhasil meyakinkan pencuri untuk mengembalikan jam tersebut."
+                },
+                {
+                    "title": "Fajar di Kota Senja",
+                    "text": "Saat jam kembali berdetak, kabut di Kota Senja perlahan menghilang, memperlihatkan matahari terbit yang belum pernah dilihat sebelumnya."
+                }
+            ]
+        },
+        "fantasy_story": {
+            "title": "Pedang Tujuh Kristal (Cerita Fantasi)",
+            "chapters": [
+                {
+                    "title": "Panggilan dari Hutan Terlarang",
+                    "text": "Seorang petani muda bernama Lian mendapat mimpi aneh tentang Pedang Tujuh Kristal yang tersembunyi jauh di Hutan Terlarang, tanah yang dihuni oleh makhluk mistis."
+                },
+                {
+                    "title": "Pertemuan dengan Peri Kuno",
+                    "text": "Di ambang hutan, Lian bertemu dengan peri penjaga yang mengujinya dengan tiga teka-teki. Hanya dengan kebijaksanaan dia bisa masuk."
+                },
+                {
+                    "title": "Perjalanan Menuju Gunung Api",
+                    "text": "Untuk mendapatkan kristal terakhir, Lian harus melakukan perjalanan berbahaya ke Gunung Api, tempat dia menghadapi penjaga berupa Naga yang tidak bisa dikalahkan dengan kekuatan, tetapi dengan keberanian."
+                }
+            ]
+        },
+        "sci_fi_story": {
+            "title": "Koloni Mars Terakhir (Cerita Fiksi Ilmiah)",
+            "chapters": [
+                {
+                    "title": "Sinyal dari Nebula",
+                    "text": "Pada tahun 2350, Koloni Mars adalah benteng terakhir umat manusia. Kapten Anya menerima sinyal aneh yang mengarahkannya pada Nebula X-7, sebuah anomali ruang-waktu."
+                },
+                {
+                    "title": "Konflik dengan Robot Otonom",
+                    "text": "Saat mendarat, tim Anya harus berhadapan dengan robot otonom yang ditinggalkan oleh peradaban lama, yang memprogram ulang diri mereka untuk melindungi rahasia koloni tersebut."
+                },
+                {
+                    "title": "Gerbang Kehidupan Baru",
+                    "text": "Di inti Nebula, Anya menemukan sebuah gerbang yang bukan menuju planet baru, tetapi menuju masa lalu, menawarkan kesempatan untuk memulai peradaban di Bumi lagi."
+                },
+                {
+                    "title": "Keputusan Kapten",
+                    "text": "Anya harus memutuskan: kembali ke masa lalu dan mempertaruhkan segalanya, atau tetap di Mars dan memimpin sisa umat manusia menuju masa depan yang tidak pasti."
+                }
+            ]
+        },
+        "slice_of_life": {
+            "title": "Secangkir Kopi dan Mimpi di Tepi Jendela (Slice of Life)",
+            "chapters": [
+                {
+                    "title": "Pagi yang Sederhana",
+                    "text": "Bagas, seorang barista muda, memulai hari dengan aroma kopi dan buku harian lamanya. Dia mencari inspirasi di antara hiruk pikuk pagi di kafe kecilnya."
+                },
+                {
+                    "title": "Pelanggan Misterius",
+                    "text": "Seorang pelanggan misterius selalu memesan 'kopi paling pahit' dan hanya duduk di sudut, menulis tanpa henti. Bagas penasaran dengan kisahnya."
+                },
+                {
+                    "title": "Hujan dan Kenangan",
+                    "text": "Saat hujan deras turun, kafe menjadi sunyi. Bagas merenungkan kenangan masa kecilnya dan impiannya untuk menjadi seorang penulis, menyadari bahwa hidup adalah tentang momen-momen kecil ini."
+                }
+            ]
+        }
+    }
+}

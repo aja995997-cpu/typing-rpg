@@ -1,0 +1,103 @@
+{
+    "level_data": {
+        "dasar_home_row": [
+            "asas fafa dslk ;jkl fjkd asldk",
+            "dad sadakd fasa; ladk falks jadaf",
+            "jaka lada; kafsa jadak asda;sdas",
+            "fadakalska dflak;sjf asdflkasd;j",
+            "lak; jaksd ad;lkad fsa;d;laks dfj",
+
+            "fafa sasa laks; jalk sald;f fadas klaj;",
+            "fadk; salfa; jakl; fasd ads;lk fasj;",
+            "salak dada; fjka; laskd; sa;fja ldas;",
+            "dfka;sa jalk;f sadas; lkajsd; falds;",
+            "jakl;df as;dka flas;d jaks;f asd;lk",
+
+            "asda; fafa; jkl; laks; dslk; fjd;sa",
+            "jda;f lska;d fdla; sjad;lk fa;dja",
+            "laks; fajd; ksal; jksd; as;fja dslak",
+            "askl; fajd; lask;f ajks; fad;lk jdsa",
+            "flask; jdas; asdkl; fajd;sal as;ljk"
+        ],
+
+        "pemula_lanjutan": [
+            "saya akan coba beli mobil baru karena hari ini ada janji.",
+            "Semua orang harus mencoba mengetik dengan cepat setiap hari.",
+            "dia pergi ke sana tadi pagi untuk melihat pemandangan kota.",
+            "makan siang kita besok adalah nasi goreng dan teh manis panas.",
+            "hujan deras turun semalaman membuat jalan menjadi licin sekali.",
+
+            "Aku berencana pergi ke perpustakaan untuk mengembalikan buku pinjaman.",
+            "Kami bertemu di taman kota untuk berolahraga dan berbicara santai.",
+            "Besok pagi saya ingin memulai hari dengan latihan ringan dulu.",
+            "Setiap orang memiliki cara belajar yang berbeda dan unik.",
+            "Saya mencoba menyelesaikan pekerjaan sebelum matahari terbenam.",
+
+            "Ia menunggu di halte bus sambil membaca pesan di ponselnya.",
+            "Kami merencanakan perjalanan singkat ke pegunungan akhir pekan ini.",
+            "Dia membawa payung karena cuaca terlihat mendung sejak pagi.",
+            "Saya belajar mengetik sepuluh jari agar lebih cepat dan efisien.",
+            "Kami sekeluarga makan malam bersama setelah pulang bekerja."
+        ],
+
+        "kata_penuh": [
+            "Pada umumnya, matahari terbit di timur dan terbenam di barat.",
+            "Saya membeli beberapa buku baru di toko dekat rumah, lalu pulang.",
+            "Teknologi informasi berkembang sangat pesat dalam kurun waktu satu dekade terakhir.",
+            "Untuk mencapai hasil terbaik, diperlukan fokus dan konsentrasi tinggi saat bekerja.",
+            "Penggunaan energi terbarukan menjadi solusi untuk mengatasi isu pemanasan global.",
+
+            "Perekonomian suatu negara sangat dipengaruhi oleh stabilitas politik dan sosial.",
+            "Pendidikan yang baik adalah fondasi penting bagi perkembangan generasi mendatang.",
+            "Transportasi publik yang efisien mampu mengurangi kemacetan di kota besar.",
+            "Sistem keamanan digital harus terus ditingkatkan untuk menghadapi ancaman modern.",
+            "Inovasi merupakan kunci utama bagi perusahaan untuk tetap bersaing di pasar global.",
+
+            "Perubahan iklim memberikan tantangan besar bagi berbagai sektor kehidupan.",
+            "Sebuah keputusan penting harus dipertimbangkan dengan hati-hati dan matang.",
+            "Perkembangan dunia medis sangat cepat berkat kemajuan teknologi mutakhir.",
+            "Kebiasaan membaca setiap hari dapat meningkatkan wawasan dan kreativitas.",
+            "Keberhasilan tim sangat bergantung pada komunikasi dan kerja sama anggotanya."
+        ],
+
+        "lanjutan_simbol": [
+            "File yang saya kirimkan adalah Laporan-Q3-2025.pdf.",
+            "Email saya: nama.saya@domain.com (Telepon: 0812345678).",
+            "Harga barang ini naik 10% menjadi Rp. 1.250.000 (Satu Juta Dua Ratus Lima Puluh Ribu).",
+            "Sistem harus memenuhi persyaratan ISO 9001, yang sangat ketat.",
+            "Kami perlu menyelesaikan 75% tugas sebelum batas waktu hari Jumat.",
+
+            "Silakan akses folder /usr/local/bin untuk melihat konfigurasi aplikasi.",
+            "Gunakan perintah `pip install -r requirements.txt` untuk menginstal dependency.",
+            "Versi aplikasi terbaru adalah v2.3.1, dirilis pada 12-04-2025.",
+            "Tolong kirimkan dokumen itu ke admin@perusahaan.co.id sebelum jam 17:00.",
+            "Server menghasilkan error code (504 - Gateway Timeout) tadi malam.",
+
+            "Kontrak akan diperbarui hingga 30/12/2025 sesuai kesepakatan.",
+            "Gunakan tanda *asterisk* untuk menyorot kata tertentu dalam markdown.",
+            "Router harus di-restart jika LED indikator berubah menjadi warna merah.",
+            "Anda dapat mengakses panel admin melalui http://localhost:8000.",
+            "Batas unggahan file adalah 20MB, melebihi itu akan ditolak otomatis."
+        ],
+
+        "ahli_kompleks": [
+            "Perulangan acara atau mainloop adalah yang membuat jendela Tkinter tetap terbuka dan responsif, memastikan interaksi pengguna yang lancar.",
+            "Secara konseptual, pengembangan perangkat lunak modern menuntut integrasi berkelanjutan dan pengujian ekstensif, memastikan stabilitas sistem.",
+            "Pemanfaatan fungsionalitas kustom dari modul ttk memungkinkan penyesuaian visualisasi antarmuka pengguna yang lebih kompleks dan modernistik.",
+            "Teori Relativitas Einstein (E = mc²) mengubah pemahaman kita tentang ruang, waktu, dan energi di alam semesta.",
+            "Meskipun tantangan ekonometri dan fluktuasi pasar modal 2024, perusahaan berhasil meningkatkan profitabilitas (3.5% kenaikan).",
+
+            "Arsitektur microservices menawarkan skalabilitas tinggi, namun membutuhkan orkestrasi dan observabilitas yang sangat matang.",
+            "Pemrosesan paralel pada CPU multi-core memungkinkan komputasi intensif dilakukan lebih efisien dan terdistribusi.",
+            "Dalam analisis big data, pemodelan statistik lanjutan digunakan untuk menemukan pola tersembunyi di antara jutaan baris data.",
+            "Algoritma kriptografi modern seperti RSA dan AES berperan penting dalam menjaga keamanan komunikasi digital.",
+            "Mekanisme asynchronous dan event-driven membantu aplikasi menangani ribuan koneksi secara simultan dengan latensi rendah.",
+
+            "Model bahasa berbasis transformer telah merevolusi pemrosesan bahasa alami dalam satu dekade terakhir.",
+            "Dalam fisika kuantum, partikel dapat berada dalam superposisi hingga pengukuran dilakukan.",
+            "Sistem basis data NoSQL lebih cocok untuk data tidak terstruktur yang berkembang secara dinamis.",
+            "Teknik load balancing memastikan distribusi trafik yang merata pada server-server produksi.",
+            "Metode machine learning membutuhkan dataset berkualitas tinggi agar model dapat melakukan generalisasi dengan baik."
+        ]
+    }
+}
