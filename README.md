@@ -29,7 +29,7 @@
 
 ### 📊 Statistik & Peringkat
 * **Leaderboard Global:** Bandingkan koinmu dengan pemain lain. Top 3 mendapat warna khusus (Emas, Perak, Perunggu).
-* **Riwayat Pertandingan:** Catatan detail setiap balapan (Lawan, WPM, Akurasi, Tanggal) dengan paginasi halaman.
+* **Riwayat Pertandingan:** Catatan detail setiap balapan (Lawan, WPM, Akurasi, Tanggal).
 * **Live WPM & Akurasi:** Statistik real-time saat mengetik.
 
 ### 🎨 Antarmuka Modern
